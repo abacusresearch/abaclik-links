@@ -2,7 +2,7 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
-    "package_name": "ch.abacus.android.abaclik.debug",
+    "package_name": "ch.abacus.android.abaclik2.debug",
     "sha256_cert_fingerprints": ["BF:B1:7D:F7:69:8D:BC:87:19:F2:37:27:7E:39:43:A4:66:7B:9C:4A:5C:F1:08:72:CB:41:86:C9:01:F2:8D:FC"]
   }
 }]
