@@ -1,0 +1,15 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "PF8DXS9D53.ch.abacus.abaclik.dev",
+        "paths": ["/app/*"]
+      }
+      {
+        "appID": "PF8DXS9D53.ch.abacus.abaclik2",
+        "paths": ["/app/*"]
+      }
+    ]
+  }
+}
