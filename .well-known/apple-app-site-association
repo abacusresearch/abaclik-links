@@ -9,6 +9,10 @@
       {
         "appID": "PF8DXS9D53.ch.abacus.abaclik2",
         "paths": ["/app/*"]
+      },
+      {
+        "appID": "PF8DXS9D53.ch.abacus.abaclik3",
+        "paths": ["/app/*"]
       }
     ]
   }
